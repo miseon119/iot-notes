@@ -1,6 +1,6 @@
-# jetson-notes
+# IOT-notes
 
-## Arduino + Jetson Nano
+## Arduino
 
 **communication**
 - 단방향 통신: 시리얼 통신
@@ -25,3 +25,7 @@ SDA (serial data) wire is used for data exchange in between the master and slave
 SCL (serial clock) is used for the synchronous clock in between master and slave device.
 
 [more](https://www.electronicwings.com/arduino/arduino-i2c)
+
+## Raspberry pi 3b+
+
+![Alt text](image.png)
